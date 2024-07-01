@@ -1,2 +1,2 @@
 # ENVI-STATS
-FINAL PROJECT OF DATA ANALYST BOOTCAMP
+Final Project of Data Analyst Bootcamp. Data Preprocessing, Analyze, Visualization about Enviromental Statistics in Indonesia.
